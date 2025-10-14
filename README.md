@@ -29,6 +29,10 @@ The app will open in your browser at [http://localhost:3000](http://localhost:30
 
 ## How to Use
 
+<img width="360" height="160" alt="1" src="https://github.com/user-attachments/assets/938b6be5-b82d-4b87-ada1-e4f3bbefe0dc" />
+<img width="360" height="160" alt="2" src="https://github.com/user-attachments/assets/79832261-cecc-44ae-b107-f39f1c3f639d" />
+<img width="360" height="160" alt="3" src="https://github.com/user-attachments/assets/1a463e34-8255-4fb1-93ee-1887b4e505be" />
+
 - **Add Task**: Type your task in the input field and click "Add" button or press Enter
 - **Complete Task**: Click on the checkbox or task text to toggle completion status
 - **Delete Task**: Click the × button on the right side of each task
