@@ -18,7 +18,7 @@ A simple and elegant Todo List application built with React.
 Follow these steps to run the project on your local machine:
 
 ```bash
-git clone https://github.com/yourusername/todo-list.git
+git clone https://github.com/wlgggy/react-project-02.git
 cd todo-list
 pnpm i
 pnpm start
